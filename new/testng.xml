@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testng.Parameterization_FA"/>
+      <class name="grid.GridDemo"/>
+      <class name="oop.TestingDemo"/>
+      <class name="oop.AutoTest"/>
+      <class name="testng.NewTest45"/>
+      <class name="testng.DemoTestNGScript"/>
+      <class name="grid.GridDemo2"/>
+      <class name="oop.ManualTest"/>
+      <class name="testng.DataProviderDemo"/>
+      <class name="testng.OpenApps"/>
+      <class name="testng.DemoScript"/>
+      <class name="testng.OHM"/>
+      <class name="testng.NewTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

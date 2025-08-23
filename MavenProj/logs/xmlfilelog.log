@@ -1,0 +1,7 @@
+[TRACE] 2023-06-10 14:30:03.564 [main] Log4jDemoClass - 
+This is trace msg
+[INFO ] 2023-06-10 14:30:03.568 [main] Log4jDemoClass - This is info msg
+[ERROR] 2023-06-10 14:30:03.568 [main] Log4jDemoClass - This is error msg
+[WARN ] 2023-06-10 14:30:03.569 [main] Log4jDemoClass - This is warning msg
+[FATAL] 2023-06-10 14:30:03.569 [main] Log4jDemoClass - This is fatal msg
+[DEBUG] 2023-06-10 14:30:03.569 [main] Log4jDemoClass - This is debug msg
